@@ -1,6 +1,14 @@
 # OCR Screenshot Shortcut
 - Capture screenshots, extract text using OCR, and customize text selection with this macOS Shortcut.
 
+
+
+
+https://github.com/IshaanAdarsh/Optical-Character-Recognition/assets/25835195/2d064676-87e1-4ae8-8896-0444362b2c2d
+
+
+
+
 ## Overview
 - This macOS Shortcut offers a swift way to capture screenshots, extract text using Optical Character Recognition (OCR), and customize text selection. It's particularly handy when you need to copy text from presentations, videos, or during virtual calls.
 
