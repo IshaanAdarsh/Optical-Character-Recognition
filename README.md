@@ -15,7 +15,7 @@ https://github.com/nown1ne/Optical-Character-Recognition/assets/25835195/55b0542
 
 To download and use this shortcut:
 
-1. Download the latest release of [```ocr.shortcut```](https://github.com/IshaanAdarsh/Optical-Character-Recognition/releases/tag/release) for the OCR Screenshot Shortcut.
+1. Download the latest release of [```ocr.shortcut```](https://github.com/IshaanAdarsh/Optical-Character-Recognition/releases/tag/macOS) for the OCR Screenshot Shortcut.
 2. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
 3. Review the shortcut's actions and customize if needed.
 4. Save the shortcut with a name (e.g., "OCR Screenshot").
@@ -39,10 +39,7 @@ To create and use this shortcut on your Mac locally:
 4. Customize each action as desired.
 5. Save the shortcut with a name (e.g., "OCR Screenshot").
 
-
-
 ## Customization
-
 You can tailor the actions to match your preferences:
 
 - Adjust the capture settings in "Take Screenshot" to choose the area you want to capture.
@@ -51,19 +48,19 @@ You can tailor the actions to match your preferences:
 
 Please note that the provided actions are designed to be executed in sequence, with each activity using input from the previous step.
 
+<div align="center"> 
+    <a href="https://github.com/IshaanAdarsh">
+    <img src="https://avatars.githubusercontent.com/u/100434702?v=4" width=100px height=100px />
+    </a>
+    <p align="center"> Ishaan Adarsh </p>
+</div>
+
 <h2 align="center"> Project Maintainers & Admins</h2> 
 <div align="center"> 
     <a href="https://github.com/nown1ne">
     <img src="https://avatars.githubusercontent.com/u/25835195?v=4" width=100px height=100px />
     </a>
     <p align="center"> Abhinav Srinivas </p>
-</div>
-
-<div align="center"> 
-    <a href="https://github.com/IshaanAdarsh">
-    <img src="https://avatars.githubusercontent.com/u/100434702?v=4" width=100px height=100px />
-    </a>
-    <p align="center"> Ishaan Adarsh </p>
 </div>
 
 ## License
