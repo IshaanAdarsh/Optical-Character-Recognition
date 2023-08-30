@@ -1,13 +1,7 @@
 # OCR Screenshot Shortcut
 - Capture screenshots, extract text using OCR, and customize text selection with this macOS Shortcut.
 
-
-
-
-https://github.com/IshaanAdarsh/Optical-Character-Recognition/assets/25835195/2d064676-87e1-4ae8-8896-0444362b2c2d
-
-
-
+https://github.com/nown1ne/Optical-Character-Recognition/assets/25835195/55b0542e-6dc0-4d6c-bbf7-5dff018e9a45
 
 ## Overview
 - This macOS Shortcut offers a swift way to capture screenshots, extract text using Optical Character Recognition (OCR), and customize text selection. It's particularly handy when you need to copy text from presentations, videos, or during virtual calls.
@@ -17,6 +11,14 @@ https://github.com/IshaanAdarsh/Optical-Character-Recognition/assets/25835195/2d
 - Offline text extraction using OCR.
 - Combine and copy extracted text to the clipboard.
 
+## Download and Use
+
+To download and use this shortcut:
+
+1. Download the latest release of [```ocr.shortcut```](https://github.com/IshaanAdarsh/Optical-Character-Recognition/releases/tag/release) for the OCR Screenshot Shortcut.
+2. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
+3. Review the shortcut's actions and customize if needed.
+4. Save the shortcut with a name (e.g., "OCR Screenshot").
 ## How to Create Locally
 
 To create and use this shortcut on your Mac locally:
@@ -37,15 +39,7 @@ To create and use this shortcut on your Mac locally:
 4. Customize each action as desired.
 5. Save the shortcut with a name (e.g., "OCR Screenshot").
 
-## Download and Use
 
-To download and use this shortcut:
-
-1. Visit the [Optical-Character-Recognition](https://github.com/IshaanAdarsh/Optical-Character-Recognition) for the OCR Screenshot Shortcut.
-2. Locate and download the shortcut file (`OCR_Screenshot_Shortcut.shortcut`) from the repository.
-3. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
-4. Review the shortcut's actions and customize if needed.
-5. Save the shortcut with a name (e.g., "OCR Screenshot").
 
 ## Customization
 
@@ -57,9 +51,21 @@ You can tailor the actions to match your preferences:
 
 Please note that the provided actions are designed to be executed in sequence, with each activity using input from the previous step.
 
-## Contributors
-- [Abhinav Srinivas](https://github.com/nown1ne)
-- [Ishaan Adarsh](https://github.com/IshaanAdarsh)
+<h2 align="center"> Project Maintainers & Admins</h2> 
+<div align="center"> 
+    <a href="https://github.com/nown1ne">
+    <img src="https://avatars.githubusercontent.com/u/25835195?v=4" width=100px height=100px />
+    </a>
+    <p align="center"> Abhinav Srinivas </p>
+</div>
+
+<div align="center"> 
+    <a href="https://github.com/IshaanAdarsh">
+    <img src="https://avatars.githubusercontent.com/u/100434702?v=4" width=100px height=100px />
+    </a>
+    <p align="center"> Ishaan Adarsh </p>
+</div>
 
 ## License
 - This shortcut is available under the [MIT License](LICENSE).
+
